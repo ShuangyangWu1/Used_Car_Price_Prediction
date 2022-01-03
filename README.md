@@ -1,4 +1,5 @@
 # Used_Car_Price_Prediction
+This project is one of course final project
 Predict the price of used car based on Linear regression, Random Forest, XGBoost and explains variables using SHAP
 
 # Purpose & Application
